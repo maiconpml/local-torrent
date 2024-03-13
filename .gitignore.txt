@@ -1,0 +1,4 @@
+compile
+removefiles
+diretorios
+Sketch
