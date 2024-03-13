@@ -1,4 +1,1 @@
-compile
-removefiles
-diretorios
-Sketch
+Sketch/
