@@ -2,6 +2,7 @@ Sketch
 diretorios
 compile.sh
 removefiles.sh
-teste.s
+teste.sh
 *.o
 .vs
+localTorrent
