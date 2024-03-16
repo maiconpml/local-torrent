@@ -4,3 +4,4 @@ compile.sh
 removefiles.sh
 teste.s
 *.o
+.vs
