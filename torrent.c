@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <string.h>
-#include "bibliotecas/localTorrent.h"
-#include "bibliotecas/directories.h"
+#include "libs/localTorrent.h"
+#include "libs/directories.h"
 
 GlobalFiles globalFiles= {NULL,NULL};
 int blockSize = 0;
